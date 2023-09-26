@@ -1,5 +1,5 @@
 # Responsive Landing Page Headphones 🎧
-## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
+
 ### Responsive Landing Page Headphones 🎧
 
 - Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
